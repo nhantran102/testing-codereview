@@ -1,2 +1,2 @@
 def total():
-    return 0
+    return 999  # main
